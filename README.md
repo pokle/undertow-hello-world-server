@@ -1,4 +1,8 @@
 undertow-hello-world-server
 ===========================
 
-The smallest undertow server you can write
+The smallest http://undertow.io server you can write. The example on their front page is borked, so here's a project you can download and run with:
+
+    gradle run
+
+

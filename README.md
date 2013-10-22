@@ -5,4 +5,4 @@ The smallest http://undertow.io server you can write. The example on their front
 
     gradle run
 
-
+And then visit http://127.1:8080/

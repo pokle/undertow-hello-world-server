@@ -8,6 +8,6 @@ repositories {
 }
 
 dependencies {
-    compile group: 'io.undertow', name: 'undertow-core', version: '1.4.0.CR3'
-    compile group: 'io.undertow', name: 'undertow-servlet', version: '1.4.0.CR3'
+    compile group: 'io.undertow', name: 'undertow-core', version: '2.0.6.Final'
+    compile group: 'io.undertow', name: 'undertow-servlet', version: '2.0.6.Final'
 }
